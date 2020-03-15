@@ -16,7 +16,7 @@ public class UserService {
 	{
 		User u=new User();
 		u.setId(103L);
-		u.setUserName("Kishan");
+		u.setUserName("user3");
 		u.setPassword("12345");
 		repo.save(u);
 	}
