@@ -1,0 +1,3 @@
+FROFROM java:8
+
+RUN echo "Testing dockerfile"
